@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert
 - 📓 I study Computer Science and IT at CCT College Dublin
-- 👀 I’m interested in Web Development and ♾️ DevOps
-- 🌱 I’m currently learning  Java and Spring Framework
+- 👀 I’m interested in Software Engineering, Web Development and DevOps
+- 🌱 I’m currently learning  Java, Spring and Angular.  
  
 
 <!---
