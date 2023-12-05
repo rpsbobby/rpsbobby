@@ -12,7 +12,7 @@
 
 🌟 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/robert-szlufik/) to stay updated on my professional journey and explore opportunities for collaboration. 
 
-🌐 [My Website](https://www.rpsbobby.github.io)
+🌐 [My Website](https://rpsbobby.github.io/)
 
 Happy coding! 🚀
 
