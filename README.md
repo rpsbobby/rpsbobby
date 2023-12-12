@@ -1,16 +1,10 @@
-👋 Hello, fellow coders! I'm Robert, a passionate computer science student currently navigating the exciting journey of learning and exploration. Welcome to my GitHub haven!
+👋 Hello, fellow coders! I'm Robert, a passionate computer science student.
 
-🎓 As I navigate through the world of computer science in college, I'm enthusiastic about turning theoretical knowledge into practical solutions through coding. My GitHub repository is a snapshot of my learning process, showcasing projects and experiments that reflect my evolving skills and interests.
-
-💡 I believe in the power of collaboration and open-source contributions to elevate the entire tech community. While I'm not (yet) a professional developer, I'm dedicated to honing my skills and contributing positively to the world of code.
-
-🚀 Currently immersed in the world of academia, I'm delving into subjects like Software Engineering AI and Machine Learning. My repositories range from coursework assignments to personal projects, all part of the ongoing learning experience.
-
-🌱 Beyond coding, I'm fascinated by personal development, and that's why I believe in a well-rounded approach to personal and professional growth.
+🌱 Learning Java, Spring and Python. 
 
 📚 Let's connect and learn together! Whether you're a fellow student, a seasoned developer, or anyone interested in the world of code, I'm always open to collaboration.
 
-🌟 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/robert-szlufik/) to stay updated on my professional journey and explore opportunities for collaboration. 
+🌟 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/robert-szlufik/), or by email: robert.szlufik123@gmail.com
 
 🌐 [My Website](https://rpsbobby.github.io/)
 
