@@ -1,4 +1,4 @@
-👋 Hello, fellow coders! I'm Robert, a passionate computer science student.
+👋 Hello, fellow coders! I'm Robert, a passionate computer science graduate.
 
 🌱 Learning Java, Spring and DevOps. 
 
