@@ -6,8 +6,6 @@
 
 🌟 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/robert-szlufik/), or by email: robert.szlufik123@gmail.com
 
-🌐 [My Website](https://rpsbobby.github.io/)
-
 Happy coding! 🚀
 
 
