@@ -1,59 +1,74 @@
-# ✨ Robert Szlufik – Software Engineer (DevOps & Systems)
+# Robert Szlufik
 
-Hi there! 👋
-I'm **Robert**, a software engineer passionate about **DevOps, distributed systems, embedded Linux, and computer-vision pipelines**. I love building real systems end-to-end — from edge hardware and CUDA kernels all the way to CI/CD, observability, and cloud automation.
+Software Engineer based in Ireland, working across DevOps, Linux systems, embedded software, and infrastructure automation.
 
----
+My current work sits around embedded Linux, computer-vision systems, containerised workloads, CI/CD pipelines, GPU runtime environments, and deployment reliability. I’m interested in the boundary between application code and infrastructure: build systems, developer workflows, observability, automation, and platform engineering.
 
-## 🚀 What I’m Working On
+## Current focus
 
-* **🛰️ EdgeFlow** – smart-camera edge pipeline (Docker, Kafka, Jetson/Raspberry Pi, remote updates)
-* **📦 Kare8** – distributed microservice ecosystem (FastAPI, Kafka, Prometheus, Helmfile, GHCR CI/CD)
+- Embedded Linux and production system modernisation
+- CI/CD pipelines for embedded and AI/ML workloads
+- Containerised build and runtime environments
+- Kubernetes, Terraform, Helm/Helmfile, and deployment automation
+- Observability with Prometheus and Grafana
+- Developer tooling and reproducible engineering workflows
 
----
+## Projects
 
-## 🔧 Tech I Use Daily
+### EdgeFlow
 
-**Languages:**
-Python · Modern C++ (17/20/23) · Go (learning) · Bash
+Edge-focused infrastructure and computer-vision project.
 
-**DevOps / Cloud:**
-Docker · Docker Compose · Kubernetes · Helm & Helmfile · GitHub Actions · Prometheus/Grafana · Terraform
+- Smart-camera style pipeline for edge devices
+- Python/C++ inference components
+- Docker-based runtime environments
+- Kafka-based metadata/event flow
+- Prometheus metrics for latency, resource usage, and health
+- Target platforms include Jetson, Raspberry Pi, and Linux-based edge devices
 
-**Platforms:**
-Jetson Orin Nano · Raspberry Pi · Ubuntu · Yocto/PetaLinux SDKs
+### Kare8
 
----
+Kafka-based microservice platform project.
 
-## 📚 Currently Learning
+- FastAPI services with async request handling
+- Kafka-backed service communication
+- Dead-letter queues and message tracing
+- Prometheus/Grafana observability
+- GitHub Actions CI/CD
+- Kubernetes deployment with Helmfile
 
-* C++ & Python 
-* Software Architecture & scalable design
-* Computer Vision with Machine Learning
-* Advanced DevOps patterns (service meshes, GitOps, scalable CI/CD)
-* Applied math/physics for simulation + computer vision
+## Tools and technologies
 
----
+**Languages**  
+Python · C++ · Java · Bash · YAML
 
-## 💼 Let’s Connect
+**DevOps and cloud-native**  
+Docker · Docker Compose · Kubernetes · Helm · Helmfile · Terraform · GitHub Actions
 
-📧 **[robert.szlufik123@gmail.com](mailto:robert.szlufik123@gmail.com)**
-🔗 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/robert-szlufik/)*
+**Linux and systems**  
+Ubuntu · RHEL family · Yocto · PetaLinux · cgroups/namespaces · GPU runtime environments
 
----
+**Observability**  
+Prometheus · Grafana · runtime telemetry · pipeline telemetry
 
-## 🧭 Philosophy
+**Data and integration**  
+Kafka · REST APIs · service boundaries · event-driven patterns
 
-I believe in:
+## Certifications
 
-* Clean, maintainable design and **architecture that ages well**,
-* Continuous learning through real projects,
-* Test-driven development where it matters,
-* And building systems that are **simple, reliable, observable, and resilient**.
+Certified Kubernetes Administrator  
+Linux Foundation / CNCF  
+Issued: April 2026 · Expires: April 2028
 
----
+## Currently learning
 
-<!---
-rpsbobby/rpsbobby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Terraform and infrastructure-as-code patterns
+- Go for infrastructure and platform tooling
+- Software architecture and interface design
+- Applied computer vision systems
+- Practical security and software supply-chain concepts
+
+## Contact
+
+Email: [robert.szlufik123@gmail.com](mailto:robert.szlufik123@gmail.com)  
+LinkedIn: [linkedin.com/in/robert-szlufik](https://www.linkedin.com/in/robert-szlufik/)
